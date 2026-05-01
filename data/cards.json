@@ -1,0 +1,4458 @@
+[
+  {
+    "id": "task_soft_001",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Медленно проведи кончиками пальцев по шее партнёра от уха до плеча — 20 секунд, не спеша.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_002",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра так, будто вы не виделись целый месяц. Минимум 15 секунд.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_003",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Возьми лицо партнёра в ладони и смотри ему в глаза молча — 10 секунд, затем поцелуй в лоб.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_004",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Прошепчи партнёру на ухо одну вещь, которая тебя в нём сводит с ума прямо сейчас.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_005",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Обними партнёра сзади и крепко удержи — 30 секунд, не отпуская.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_006",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в шею три раза — медленно, с расстановкой.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_007",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Запусти пальцы в волосы партнёра и нежно помассируй голову — 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_008",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Возьми руку партнёра и медленно поцелуй каждый палец по очереди.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_009",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Проведи носом вдоль шеи партнёра от ключицы до уха — почувствуй его запах и скажи, как он тебе нравится.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_010",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Обними партнёра и медленно покачивайтесь вместе — 20 секунд, без слов.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_011",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Сядь напротив партнёра, возьми его руки в свои и смотри в глаза — молча, 15 секунд.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_012",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в висок, потом в щёку, потом в угол губ — медленно и нежно.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_013",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Медленно проведи пальцем по линии губ партнёра, не целуя — 10 секунд.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_014",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Обними партнёра спереди и прижмись лбом к его лбу — дышите вместе 15 секунд.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_015",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Скажи партнёру три комплимента подряд — про внешность, про характер и про то, что он делает с тобой.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_016",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в плечо, потом в ключицу — медленно, будто пробуя на вкус.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_017",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Погладь спину партнёра обеими ладонями сверху вниз — медленно, 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_018",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Подойди к партнёру сзади, обними за плечи и поцелуй в затылок.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_019",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Возьми запястье партнёра и поцелуй туда, где чувствуется пульс.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_020",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Медленно расплети пальцы партнёра и переплети их со своими — держи так 20 секунд.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_021",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в нос, потом улыбнись и скажи что-нибудь смешное и нежное одновременно.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_022",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Аккуратно поправь волосы партнёра рукой и задержи ладонь на щеке — 10 секунд.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_023",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Легко проведи кончиками пальцев по рукам партнёра — от плеча до кончиков пальцев, очень медленно.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_024",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Притяни партнёра к себе за руку и поцелуй — долго и без спешки.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_025",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Нарисуй пальцем воображаемое сердце на спине партнёра, а он пусть угадает фигуру.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_026",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Посмотри партнёру в глаза и скажи одним предложением, что именно сейчас тебя в нём привлекает.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_027",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в уголок губ и замри на секунду — потом медленно отстранись.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_028",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Погладь щёку партнёра тыльной стороной ладони — нежно, как что-то хрупкое.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_029",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Прижмись к партнёру и просто подыши рядом — 20 секунд в тишине.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_030",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Попроси партнёра закрыть глаза, поцелуй его в щёку — с какой стороны, пусть угадает.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_031",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Проведи большим пальцем по ключице партнёра, глядя ему в глаза.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_032",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в лоб, потом прижмись лбом к его лбу и скажи что-нибудь тихо.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_033",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Обхвати ладонями лицо партнёра и поцелуй медленно — без рук он не должен двигаться.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_034",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Потрись носом о нос партнёра — эскимосский поцелуй, 5 секунд.",
+    "timer": 5,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_035",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Сядь рядом с партнёром, положи голову ему на плечо и посиди молча — 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_036",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Тихо произнеси имя партнёра на ухо — просто имя, больше ничего.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_037",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Медленно расстегни верхнюю пуговицу на одежде партнёра и поцелуй то, что открылось.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_038",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Подойди к партнёру вплотную, но не прикасайся — замри на расстоянии сантиметра на 10 секунд.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_039",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в запястье, потом в локтевой сгиб — медленно поднимаясь к плечу.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_040",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Сделай партнёру короткий массаж плеч — 40 секунд, не торопись.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_041",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Встань перед партнёром, возьми его за руки и начни медленно кружиться — 15 секунд.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_042",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Проведи кончиком носа вдоль плеча партнёра и тихо вздохни — без слов.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_043",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра и постарайся сделать поцелуй чуть дольше, чем он ожидает.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_044",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Нежно потяни партнёра за руку к себе и обними одной рукой, не отпуская — 20 секунд.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_045",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Опиши вслух одну черту внешности партнёра, от которой ты теряешь голову — одно предложение.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_046",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Погладь ладонью живот партнёра поверх одежды — медленно, по кругу, 15 секунд.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_047",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в переносицу, потом в кончик носа, потом в губы — три точки, без спешки.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_048",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Возьми партнёра за подбородок двумя пальцами, подними его взгляд к своему и улыбнись.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_049",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Обними партнёра и похлопай по спине — медленно, три раза, как будто говоришь «я рядом».",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_050",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Дотронься до запястья партнёра и медленно веди пальцем вверх по внутренней стороне руки — до локтя.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_051",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Спрячь лицо на шее партнёра и просто побудь так — 20 секунд, дыши ровно.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_052",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в щёку так мягко, что он едва почувствует прикосновение.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_053",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Сядь напротив партнёра, возьми его ладонь и медленно массируй её большим пальцем — 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_054",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Прошепчи партнёру на ухо, что именно ты хочешь сделать с ним сегодня — одним предложением.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_055",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поправь воротник или ворот одежды партнёра, смотря ему в глаза — медленно и намеренно.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_056",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Обхвати талию партнёра и слегка притяни к себе — удержи так 15 секунд.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_057",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Поцелуй партнёра в шею за ухом и задержи губы там — 5 секунд.",
+    "timer": 5,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_058",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Нежно потяни партнёра за мочку уха губами — без зубов, одно мгновение.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_059",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Закрой глаза, и пусть партнёр сам выберет, куда тебя поцеловать — жди 10 секунд.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_soft_060",
+    "category": "task_soft",
+    "level": 1,
+    "text": "Подари партнёру один долгий, медленный, молчаливый поцелуй — пусть он скажет всё вместо слов.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_001",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Медленно сними с партнёра один предмет одежды — зубами, только зубами.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_002",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра так, чтобы у него перехватило дыхание — 30 секунд без остановки.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_003",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Проведи губами от шеи партнёра до живота, не поднимая головы.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_004",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сделай партнёру эротический массаж спины — руками, 2 минуты, без масла.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_005",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Раздень партнёра сверху донизу — медленно, смотря ему в глаза.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_006",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сядь на партнёра верхом и поцелуй его шею, ухо и ключицу по очереди.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_007",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Погладь партнёра по бёдрам изнутри — медленно, не торопясь, 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_008",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Прошепчи партнёру на ухо одну свою сексуальную фантазию — подробно и тихо.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_009",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Возьми руки партнёра и медленно проведи ими по своему телу — покажи, что тебе нравится.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_010",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра в три разные точки ниже пояса — но не туда, куда он ждёт.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_011",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сделай партнёру массаж ягодиц — 90 секунд, медленно и уверенно.",
+    "timer": 90,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_012",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Обними партнёра сзади и проведи руками по его животу и груди — 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_013",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Используй масло и сделай партнёру массаж грудной клетки и плеч — 2 минуты.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_mid_014",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй каждый палец руки партнёра по очереди — медленно, смотря в глаза.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_015",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Проведи кончиком языка по ключице партнёра от одного плеча до другого.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_016",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Разотри спину партнёра маслом — от лопаток до поясницы, 2 минуты.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_mid_017",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Укуси партнёра за мочку уха — нежно, потом подуй туда же.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_018",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поглади партнёра по волосам одной рукой, а другой — по спине. Молча, 40 секунд.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_019",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Попроси партнёра лечь на спину и поцелуй его живот — от пупка вниз.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_020",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Медленно расстегни партнёра — каждую пуговицу или застёжку сопровождай поцелуем.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_021",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Ляг рядом с партнёром и проведи ногтями по его спине — сверху вниз, 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_022",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сделай партнёру массаж ног — от стоп до бёдер, 2 минуты.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_023",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Возьми кубик льда и проведи им по плечам и шее партнёра, следуя губами за ним.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_mid_024",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Прижми партнёра к стене и поцелуй так, чтобы он не мог пошевелиться — 20 секунд.",
+    "timer": 20,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_025",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра в шею сзади и обними его так крепко, как только можешь — 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_026",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Погладь партнёра перышком по рукам, животу и внутренней стороне бёдер — 60 секунд.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": "feather"
+  },
+  {
+    "id": "task_mid_027",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра сначала в лоб, потом в нос, потом в губы — каждый поцелуй длиннее предыдущего.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_028",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Завяжи партнёру глаза и погладь его руками по всему телу — 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_mid_029",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Потанцуй с партнёром медленно — прижмись как можно плотнее, без музыки, 1 минуту.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_030",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Проведи кончиком пальца по контуру губ партнёра, потом поцелуй его.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_031",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра за ухом и тихо скажи ему, что тебя в нём возбуждает прямо сейчас.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_032",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Обведи языком мочку уха партнёра, потом перейди на шею — 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_033",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сними с партнёра рубашку или майку и поцелуй каждое плечо по очереди.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_034",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Попроси партнёра закрыть глаза и угадать, какую часть тела ты целуешь — 5 поцелуев.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_035",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Нанеси масло на бёдра партнёра и медленно разотри — только руками, 90 секунд.",
+    "timer": 90,
+    "tags": [],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_mid_036",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра в живот — 10 маленьких поцелуев вокруг пупка.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_037",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Возьми руку партнёра и медленно поцелуй его запястье — там, где чувствуется пульс.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_038",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Пока партнёр лежит, проведи кубиком льда по его животу от пупка вниз.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_mid_039",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Обними партнёра сзади и нежно покусывай его шею — 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_040",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Попроси партнёра лечь на живот и проведи пальцами вдоль позвоночника сверху вниз — 3 раза.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_041",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй внутреннюю сторону запястья партнёра, потом локоть, потом плечо — по прямой линии.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_042",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Проведи пером по шее, груди и животу партнёра — медленно, пока он не вздрогнет.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": "feather"
+  },
+  {
+    "id": "task_mid_043",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сядь напротив партнёра, возьми его лицо в ладони и поцелуй — долго, без спешки.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_044",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Погладь партнёра по внутренней стороне бёдер — от колена наверх и обратно, 40 секунд.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_045",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сними с партнёра нижнее бельё — медленно, зубами или руками на твой выбор.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_046",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Напиши пальцем на спине партнёра слово — пусть угадает, что ты написал.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_047",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра в лопатку, потом в поясницу — и замри на 5 секунд.",
+    "timer": 25,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_048",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Держи партнёра за руки над головой и поцелуй его шею — 20 секунд, не отпуская.",
+    "timer": 20,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_049",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Сделай партнёру массаж волос и кожи головы — пальцами, 90 секунд.",
+    "timer": 90,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_050",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра в угол челюсти — туда, где заканчивается ухо — и подержи губы 10 секунд.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_051",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Попроси партнёра встать и медленно разденься перед ним сам — не торопись.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_052",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Возьми масло, нанеси на ладони и сделай партнёру массаж груди и рёбер — 2 минуты.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_mid_053",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра в шею спереди — там, где ключицы сходятся — и тихо вздохни.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_054",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Завяжи партнёру глаза и поцелуй его в три неожиданных места — пусть угадает, куда.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_mid_055",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Прижмись к партнёру всем телом и не двигайся — просто почувствуй его 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_056",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Расстегни или сними брюки партнёра и поцелуй его в бедро — нежно, без спешки.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_057",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Проведи кончиком языка от лопатки партнёра до поясницы — одним движением.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_058",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Погладь партнёра по животу — медленно, по кругу, 40 секунд — и постепенно опускайся ниже.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_059",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Поцелуй партнёра в ключицу, потом в плечо, потом в шею — и повтори в обратном порядке.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_mid_060",
+    "category": "task_mid",
+    "level": 2,
+    "text": "Нежно прикуси нижнюю губу партнёра во время поцелуя и посмотри ему в глаза.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_001",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Медленно проведи пальцем вдоль ягодиц партнёра, задержись у заветного места и нежно надави — 20 секунд, только снаружи.",
+    "timer": 20,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_002",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Возьми масло, разогрей его в ладонях и сделай партнёру медленный массаж ягодиц, постепенно сужая круги к центру — не меньше минуты.",
+    "timer": 60,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_anal_003",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Попроси партнёра лечь на живот, поцелуй каждую ягодицу по три раза и нежно укуси каждую — без спешки.",
+    "timer": 40,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_004",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Нанеси масло на палец и очень медленно, без резких движений, введи его чуть внутрь — следи за реакцией партнёра и двигайся только в его темпе.",
+    "timer": 60,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_anal_005",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Прикажи партнёру встать на четвереньки и 30 секунд дразни анальную зону кончиком языка — медленно, не торопись.",
+    "timer": 30,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_006",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Возьми небольшую анальную пробку, щедро смажь лубрикантом и предложи партнёру — пусть решит сам, насколько глубоко и комфортно.",
+    "timer": null,
+    "tags": [
+      "anal",
+      "toys"
+    ],
+    "required_toy": "dildo"
+  },
+  {
+    "id": "task_anal_007",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Пока партнёр лежит на спине, подними его ноги и в течение 30 секунд ласкай анальную зону языком или пальцем — только то, что партнёру приятно.",
+    "timer": 30,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_008",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Смажь два пальца маслом и сделай партнёру медленный наружный массаж анальной зоны круговыми движениями — 45 секунд, только снаружи.",
+    "timer": 45,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_anal_009",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Попроси партнёра описать словами, что ему нравится в анальных ласках, пока ты нежно поглаживаешь его ягодицы — не меньше минуты разговора.",
+    "timer": 60,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_010",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Попеременно ласкай партнёра в двух местах сразу: одной рукой — анальная зона, другой — гениталии. Держи этот ритм 40 секунд.",
+    "timer": 40,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_011",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Завяжи партнёру глаза и чередуй прикосновения: то нежное поглаживание ягодиц, то лёгкое касание анальной зоны — пусть не знает, что будет следующим. 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "anal",
+      "dom_sub"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_anal_012",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Поцелуй партнёра в основание позвоночника и медленно опускайся поцелуями вниз по ягодицам — дойди до самого интимного места.",
+    "timer": 45,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_013",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Смажь вибратор лубрикантом и используй его только снаружи, чтобы мягкая вибрация чувствовалась в анальной зоне — 30 секунд.",
+    "timer": 30,
+    "tags": [
+      "anal",
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "task_anal_014",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Пока партнёр получает анальные ласки пальцем, шёпотом описывай вслух, что именно делаешь — каждое движение словами. 45 секунд.",
+    "timer": 45,
+    "tags": [
+      "anal",
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_015",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Возьми кубик льда и медленно проведи им по ягодицам партнёра, ненадолго задержавшись у анальной зоны — следи за реакцией.",
+    "timer": 30,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_anal_016",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Договоритесь о позе, в которой вам обоим комфортно заниматься анальным сексом, и проведите в этой позе не менее двух минут — без спешки, только удовольствие.",
+    "timer": 120,
+    "tags": [
+      "anal",
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_017",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Ласкай партнёра языком в анальной зоне, пока он удерживает ноги поднятыми сам — как только опустит, смена ролей.",
+    "timer": null,
+    "tags": [
+      "anal",
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_018",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Нанеси тёплое масло прямо на анальную зону партнёра и разотри мягкими круговыми движениями — 50 секунд медленного, почти медитативного массажа.",
+    "timer": 50,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_anal_019",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Введи смазанный палец и удерживай его неподвижно внутри 20 секунд — никаких движений, только ощущение наполненности.",
+    "timer": 20,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_020",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Попроси партнёра встать на колени, а сам встань сзади и чередуй: поцелуй ягодицы, лёгкий шлепок, снова поцелуй — и так 30 секунд, заканчивая нежным прикосновением к анальной зоне.",
+    "timer": 30,
+    "tags": [
+      "anal",
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_021",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Во время анального проникновения пальцем одновременно стимулируй гениталии партнёра другой рукой — держи двойной ритм 45 секунд.",
+    "timer": 45,
+    "tags": [
+      "anal",
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_022",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Возьми перо и медленно проведи им по ягодицам партнёра, задержись у анальной зоны — щекотка и лёгкость вместо давления. 30 секунд.",
+    "timer": 30,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": "feather"
+  },
+  {
+    "id": "task_anal_023",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Шёпотом спроси у партнёра, чего ему хочется прямо сейчас в анальном плане — и выполни это желание максимально точно.",
+    "timer": null,
+    "tags": [
+      "anal",
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_024",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Попроси партнёра лечь на живот, а сам сядь верхом на его бёдра — ласкай ягодицы и анальную зону, не позволяя партнёру двигаться. 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "anal",
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_anal_025",
+    "category": "task_anal",
+    "level": 3,
+    "text": "Завершите это задание вместе: договоритесь об одном новом анальном ощущении, которое хотите попробовать в следующий раз, — и скрепите договор поцелуем.",
+    "timer": null,
+    "tags": [
+      "anal"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_toys_001",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Возьми вибратор и проведи им вдоль внутренней стороны бёдер партнёра — медленно, не торопись.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "task_toys_002",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Надень партнёру повязку на глаза и проведи пером по всему телу — от шеи до бёдер, пока у него не появятся мурашки.",
+    "timer": 90,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_toys_003",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Возьми кусочек льда и медленно проведи им по спине партнёра — от лопаток до поясницы.",
+    "timer": 45,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_toys_004",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Нанеси массажное масло на ладони, разогрей их и сделай партнёру медленный массаж ягодиц — 2 минуты без спешки.",
+    "timer": 120,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_toys_005",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Поднеси вибратор к шее партнёра, затем медленно опускай ниже — останавливайся там, где его дыхание учащается.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "task_toys_006",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Надень партнёру наручники за спиной и поцелуй его в шею, плечи и грудь — пока он не может ответить тебе тем же.",
+    "timer": 60,
+    "tags": [
+      "toys",
+      "dom_sub"
+    ],
+    "required_toy": "handcuffs"
+  },
+  {
+    "id": "task_toys_007",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Щекочи партнёра пером в тех местах, которые сам назовёшь вслух заранее — пусть знает, что его ждёт, но всё равно не сможет устоять.",
+    "timer": 45,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "feather"
+  },
+  {
+    "id": "task_toys_008",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Налей масло на живот партнёра и медленно вотри его круговыми движениями, постепенно спускаясь к бёдрам.",
+    "timer": 90,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_toys_009",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Попроси партнёра лечь на живот, надень ему повязку на глаза и оставь на коже несколько поцелуев — пусть угадает, где именно.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_toys_010",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Держи кубик льда губами и проводи им по ключицам и груди партнёра — не убирай, пока лёд не растает.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_toys_011",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Включи вибратор на минимум и приложи его к запястьям, локтевым сгибам и коленям партнёра — по 10 секунд на каждое место.",
+    "timer": 90,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "task_toys_012",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Пристегни руки партнёра наручниками к изголовью кровати и потрать 60 секунд только на поцелуи — никаких рук, только губы.",
+    "timer": 60,
+    "tags": [
+      "toys",
+      "dom_sub"
+    ],
+    "required_toy": "handcuffs"
+  },
+  {
+    "id": "task_toys_013",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Проведи пером по внутренней стороне бёдер партнёра снизу вверх — очень медленно, останавливаясь у самого края.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "feather"
+  },
+  {
+    "id": "task_toys_014",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Нанеси масло на спину партнёра и сделай ему массаж всей ладонью — от шеи до поясницы, потом обратно.",
+    "timer": 120,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_toys_015",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Надень партнёру повязку на глаза и поочерёдно прикасайся к его коже льдом и своими тёплыми губами — пусть угадывает, что будет следующим.",
+    "timer": 90,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_toys_016",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Возьми вибратор и, не включая его, проведи им по телу партнёра как руками — потом включи и повтори тот же маршрут.",
+    "timer": 90,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "task_toys_017",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Попроси партнёра закрыть глаза и проведи пером по его лицу, шее и плечам — тихо и без слов.",
+    "timer": 45,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "feather"
+  },
+  {
+    "id": "task_toys_018",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Возьми два кубика льда и одновременно проведи ими по бокам партнёра — от подмышек до бёдер.",
+    "timer": 30,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_toys_019",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Зафиксируй руки партнёра наручниками и потрать следующую минуту на то, чтобы целовать и кусать его плечи и шею — мягко, но ощутимо.",
+    "timer": 60,
+    "tags": [
+      "toys",
+      "dom_sub"
+    ],
+    "required_toy": "handcuffs"
+  },
+  {
+    "id": "task_toys_020",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Нанеси масло на ноги партнёра и сделай массаж от ступней до бёдер — медленно, уделяя внимание каждому сантиметру.",
+    "timer": 120,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_toys_021",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Включи вибратор на среднем режиме и приложи его к внутренней стороне бедра партнёра — держи ровно 30 секунд, не двигая.",
+    "timer": 30,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "task_toys_022",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Надень партнёру повязку на глаза, а потом проведи его руками по своему телу — пусть изучает тебя только на ощупь.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_toys_023",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Проведи пером по позвоночнику партнёра сверху вниз — три раза подряд, каждый раз чуть медленнее.",
+    "timer": 45,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "feather"
+  },
+  {
+    "id": "task_toys_024",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Растопи кубик льда у партнёра на животе, придерживая его языком — не помогай руками.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_toys_025",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Разогрей масло в ладонях и нанеси его на грудь партнёра — медленными круговыми движениями, глядя ему в глаза.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_toys_026",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Привяжи запястья партнёра к кровати и 90 секунд делай всё что хочешь — но только выше пояса.",
+    "timer": 90,
+    "tags": [
+      "toys",
+      "dom_sub"
+    ],
+    "required_toy": "handcuffs"
+  },
+  {
+    "id": "task_toys_027",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Проведи включённым вибратором вдоль позвоночника партнёра — от шеи до копчика, очень медленно.",
+    "timer": 45,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "task_toys_028",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Надень партнёру повязку на глаза, возьми перо и касайся тела в случайных местах — пусть называет, где именно чувствует прикосновение.",
+    "timer": 90,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "task_toys_029",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Возьми кусочек льда и медленно проведи им по ключицам партнёра, потом согрей то же место своим дыханием и губами.",
+    "timer": 45,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_toys_030",
+    "category": "task_toys",
+    "level": 2,
+    "text": "Нанеси масло на обе ладони и обхвати ими бёдра партнёра — двигай руками ритмично и медленно, не отрывая взгляда от его лица.",
+    "timer": 60,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "oil"
+  },
+  {
+    "id": "task_roleplay_001",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Вы оба — незнакомцы, которые только что встретились на вечеринке и сразу почувствовали притяжение. Познакомьтесь заново: имена, пара фраз флирта — и первый поцелуй, как будто это происходит впервые.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_002",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — массажист-профессионал, другой — клиент, который пришёл снять напряжение. Массажист медленно работает руками по спине и плечам партнёра, тихо объясняя каждое движение.",
+    "timer": 180,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_003",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Вы оба — персонажи детективного романа: один следователь, другой подозреваемый на допросе. Следователь задаёт провокационные вопросы, подозреваемый отвечает дерзко и не отводит взгляда — 2 минуты напряжённого диалога.",
+    "timer": 120,
+    "tags": [
+      "roleplay",
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_004",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Представьте, что вы оба — в дорогом отеле, и один из вас звонит в номер другого посреди ночи. Тот, кто «открывает дверь», изображает удивление — а дальше пусть сцена разворачивается сама.",
+    "timer": 150,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_005",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — знаменитость, другой — журналист, который берёт интервью. Журналист задаёт три провокационных личных вопроса — знаменитость отвечает честно и соблазнительно.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_006",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Вы оба — соседи, которые случайно столкнулись в лифте и застряли между этажами. Тишина, близость, взгляды — разыграйте напряжение первых двух минут.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_007",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — бармен, другой — посетитель, который пришёл в бар одни и явно ищет компанию. Бармен медленно протирает стойку и не спешит — зато говорит именно то, что нужно услышать.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_008",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Представьте, что вы встретились на борту ночного рейса и сидите рядом. Один из вас начинает разговор — а через минуту вы оба «засыпаете» и просыпаетесь в объятиях друг друга.",
+    "timer": 150,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_009",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Вы оба — шпионы с разных сторон, которые раскрыли личности друг друга, но вместо того чтобы бежать — решили договориться иначе. Разыграйте момент первого доверия: взгляд, жест, слово.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_010",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — строгий руководитель, другой — новый сотрудник на первом рабочем дне. Руководитель объясняет «правила» — голосом спокойным, но очень близко. Сотрудник слушает, не отводя взгляда.",
+    "timer": 120,
+    "tags": [
+      "roleplay",
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_011",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Представьте, что вы оба — на съёмочной площадке, и режиссёр требует переснять сцену поцелуя ещё раз — «медленнее, с чувством». Снимайте сцену столько дублей, сколько захотите.",
+    "timer": null,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_012",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — художник, другой — модель на сеансе позирования. Художник медленно «изучает» позу партнёра руками — поправляет наклон головы, разворот плеч, положение рук — и говорит вслух, что видит.",
+    "timer": 150,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_013",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Вы оба — персонажи исторического романа: аристократ и гость на балу, которые нашли укромный угол и говорят шёпотом. Разыграйте диалог с флиртом в старомодном стиле — «осмелюсь ли я…», «если позволите…»",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_014",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — врач на приёме, другой — пациент с «жалобой на напряжение». Врач серьёзно и методично «осматривает» — шею, плечи, руки — и ставит диагноз вслух.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_015",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Представьте, что вы оба впервые видите друг друга на вечеринке у общих друзей. Один подходит, протягивает бокал и говорит первую фразу — пусть она будет запоминающейся. Дальше — импровизация.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_016",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Вы оба — участники закрытого аукциона, которые оба хотят получить один и тот же «лот» — и торгуются всё более личными обещаниями вместо денег. Три хода каждый.",
+    "timer": null,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_017",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — преподаватель, другой — студент, который пришёл после занятий разобрать «сложную тему». Преподаватель терпелив, но явно отвлечён — объясняет близко, голосом тихим.",
+    "timer": 120,
+    "tags": [
+      "roleplay",
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_018",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Представьте, что вы оба — герои одного сна. Один «засыпает» и лежит с закрытыми глазами, другой медленно касается его лица, волос, рук — и шёпотом описывает, что происходит в этом сне.",
+    "timer": 180,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_019",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Вы оба — персонажи фильма-нуар: детектив и его источник информации, которые встретились в тёмном переулке. Говорите вполголоса, держитесь близко — информация передаётся медленно и не только словами.",
+    "timer": 120,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_roleplay_020",
+    "category": "task_roleplay",
+    "level": 2,
+    "text": "Один из вас — astronaut, только что вернувшийся с орбиты после долгих месяцев, другой — тот, кто ждал. Разыграйте момент встречи: первые секунды молчания, объятие, первые слова — без спешки.",
+    "timer": 150,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "truth_001",
+    "category": "truth",
+    "level": 0,
+    "text": "Какое прикосновение партнёра тебя заводит больше всего?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_002",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли место на теле, которое ты хочешь, чтобы партнёр целовал чаще?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_003",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится больше — когда тебя целуют медленно или страстно?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_004",
+    "category": "truth",
+    "level": 0,
+    "text": "Какой звук или слово от партнёра тебя возбуждает сильнее всего?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_005",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе больше нравится — когда инициативу берёт партнёр или когда ты сам?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_006",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя фантазия, о которой ты ещё не рассказывал партнёру?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_007",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебя возбуждает сильнее — слова или прикосновения?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_008",
+    "category": "truth",
+    "level": 0,
+    "text": "Какая обстановка кажется тебе самой романтичной для близости?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_009",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится в теле партнёра больше всего?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_010",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр смотрит тебе в глаза во время поцелуя?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_011",
+    "category": "truth",
+    "level": 0,
+    "text": "Какое время суток ты считаешь лучшим для близости — утро, день или ночь?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_012",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли что-то в поведении партнёра, что тебя неожиданно заводит?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_013",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится в поцелуях партнёра больше всего?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_014",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр шепчет тебе на ухо?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_015",
+    "category": "truth",
+    "level": 0,
+    "text": "Что для тебя важнее в близости — скорость или медленность?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_016",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя любимое место в доме, где тебе особенно хочется близости?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_017",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится в объятиях партнёра — как именно он тебя обнимает?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_018",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя запах партнёра, и если да — какой именно?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_019",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебя больше заводит — свет или темнота?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_020",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли что-то, о чём ты хочешь попросить партнёра, но пока не решаешься?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_021",
+    "category": "truth",
+    "level": 0,
+    "text": "Какая часть тела партнёра притягивает твой взгляд в первую очередь?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_022",
+    "category": "truth",
+    "level": 0,
+    "text": "Нравится ли тебе, когда партнёр нежничает после близости?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_023",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебя заводит сильнее — нежный массаж или уверенные прикосновения?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_024",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр медленно раздевается перед тобой?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_025",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя favourite поза, к которой ты всегда хочешь вернуться?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_026",
+    "category": "truth",
+    "level": 0,
+    "text": "Что для тебя самое чувственное — взгляд, голос или руки партнёра?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_027",
+    "category": "truth",
+    "level": 0,
+    "text": "Нравится ли тебе, когда партнёр берёт тебя за лицо во время поцелуя?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_028",
+    "category": "truth",
+    "level": 0,
+    "text": "Что возбуждает тебя больше — тишина или звуки партнёра?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_029",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя фантазия, связанная с каким-то конкретным местом — например, путешествием?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_030",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится — когда партнёр ведёт себя уверенно или когда становится мягче и нежнее?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_031",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя ощущение чужого дыхания на своей шее?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_032",
+    "category": "truth",
+    "level": 0,
+    "text": "Что для тебя важнее в поцелуе — губы или руки партнёра?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_033",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли прикосновение, которое мгновенно переключает тебя на нужный лад?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_034",
+    "category": "truth",
+    "level": 0,
+    "text": "Нравится ли тебе, когда партнёр смотрит на тебя во время близости?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_035",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебя сильнее возбуждает — долгий разогрев или быстрый переход к действию?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_036",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя особая фантазия, связанная с определённым временем года?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_037",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится, когда партнёр целует тебя в шею — лёгкие прикосновения или более страстные?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_038",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр неожиданно притягивает тебя к себе?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_039",
+    "category": "truth",
+    "level": 0,
+    "text": "Что для тебя самое приятное в близости прямо сейчас — в этот период жизни?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_040",
+    "category": "truth",
+    "level": 0,
+    "text": "Нравится ли тебе, когда партнёр водит пальцами по твоей спине?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_041",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли что-то, что партнёр делает случайно — а тебя это очень заводит?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_042",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебя привлекает больше — когда партнёр медленно целует тебя по всему телу или сразу переходит к главному?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_043",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр раздевает тебя сам?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_044",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится в близости с партнёром, чего нет больше нигде в жизни?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_045",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя любимая музыка или звуки, под которые тебе особенно хорошо?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_046",
+    "category": "truth",
+    "level": 0,
+    "text": "Нравится ли тебе, когда партнёр шепчет тебе комплименты прямо во время близости?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_047",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебя больше заводит — нежные поглаживания по волосам или лёгкое потягивание за них?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_048",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр проявляет инициативу без всякого повода?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_049",
+    "category": "truth",
+    "level": 0,
+    "text": "Что для тебя важнее — количество или качество близости?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_050",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя фантазия про определённый образ или роль партнёра?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_051",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебя заводит в прикосновениях партнёра к твоим бёдрам?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_052",
+    "category": "truth",
+    "level": 0,
+    "text": "Нравится ли тебе, когда после близости партнёр остаётся рядом и просто держит тебя?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_053",
+    "category": "truth",
+    "level": 0,
+    "text": "Что для тебя самый мощный «сигнал» — слова, взгляд или прикосновение партнёра?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_054",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр улыбается тебе прямо во время поцелуя?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_055",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя желание попробовать что-то новое, о чём ты пока только думаешь?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_056",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится больше — когда партнёр целует тебя в живот или в плечи?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_057",
+    "category": "truth",
+    "level": 0,
+    "text": "Нравится ли тебе ощущение рук партнёра на своей талии — и почему?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_058",
+    "category": "truth",
+    "level": 0,
+    "text": "Возбуждает ли тебя, когда партнёр медленно проводит пальцами по твоему лицу?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_059",
+    "category": "truth",
+    "level": 0,
+    "text": "Что тебе нравится в этой игре прямо сейчас — что уже хочется попробовать?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "truth_060",
+    "category": "truth",
+    "level": 0,
+    "text": "Есть ли у тебя ощущение, что партнёр знает о тебе что-то, чего ты сам ещё не понял?",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_001",
+    "category": "for_him",
+    "level": 2,
+    "text": "Медленно проведи губами по её шее от уха до плеча — без спешки, 20 секунд только шея.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_002",
+    "category": "for_him",
+    "level": 2,
+    "text": "Посмотри ей в глаза и скажи вслух, что именно в её теле сводит тебя с ума прямо сейчас.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_003",
+    "category": "for_him",
+    "level": 2,
+    "text": "Возьми её руки, заведи над головой и удержи так — поцелуй её грудь, не отпуская рук, 30 секунд.",
+    "timer": 30,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_004",
+    "category": "for_him",
+    "level": 2,
+    "text": "Медленно раздень её сверху донизу — руками, без зубов — и после каждого снятого элемента одежды целуй то, что открылось.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_005",
+    "category": "for_him",
+    "level": 2,
+    "text": "Уложи её на живот и языком пройдись по всей спине — от шеи до поясницы, очень медленно.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_006",
+    "category": "for_him",
+    "level": 2,
+    "text": "Опустись между её ног и занимайся куни не меньше 2 минут — только языком, руки на её бёдрах.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_007",
+    "category": "for_him",
+    "level": 2,
+    "text": "Поцелуй её внутреннее бедро — сначала правое, потом левое — поднимаясь выше с каждым поцелуем, но не касаясь главного.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_008",
+    "category": "for_him",
+    "level": 2,
+    "text": "Возьми её лицо в ладони и поцелуй так, как будто это первый поцелуй после долгой разлуки — глубоко, медленно, с чувством.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_009",
+    "category": "for_him",
+    "level": 2,
+    "text": "Попроси её лечь и не двигаться — медленно целуй её живот, спускаясь вниз, пока она не попросит большего.",
+    "timer": null,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_010",
+    "category": "for_him",
+    "level": 2,
+    "text": "Возьми массажное масло и разотри её плечи и спину — не торопись, пусть расслабится под твоими руками.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": "oil"
+  },
+  {
+    "id": "for_him_011",
+    "category": "for_him",
+    "level": 2,
+    "text": "Войди в неё сзади и замри на 10 секунд — просто почувствуй её, не двигайся, дышите вместе.",
+    "timer": 10,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_012",
+    "category": "for_him",
+    "level": 2,
+    "text": "Во время секса прошепчи ей на ухо, что именно ты сейчас чувствуешь — конкретно и честно.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_013",
+    "category": "for_him",
+    "level": 2,
+    "text": "Обними её сзади, одной рукой ласкай грудь, другой — живот и бёдра, 60 секунд без спешки.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_014",
+    "category": "for_him",
+    "level": 2,
+    "text": "Попроси её встать перед тобой — медленно обойди вокруг и скажи вслух, что видишь и что тебя заводит.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_015",
+    "category": "for_him",
+    "level": 2,
+    "text": "Завяжи ей глаза и 90 секунд касайся разных частей её тела губами — она не знает, куда ты поцелуешь следующим.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "for_him_016",
+    "category": "for_him",
+    "level": 2,
+    "text": "Возьми кубик льда и медленно проведи по её телу — шея, грудь, живот — следи за её реакцией.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": "ice"
+  },
+  {
+    "id": "for_him_017",
+    "category": "for_him",
+    "level": 2,
+    "text": "Уложи её на спину, возьми её ноги себе на плечи и войди — двигайся медленно, глядя ей в глаза.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_018",
+    "category": "for_him",
+    "level": 2,
+    "text": "Тихо скажи ей одну фантазию о ней, которую давно хотел воплотить — честно и без стеснения.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_019",
+    "category": "for_him",
+    "level": 2,
+    "text": "Поцелуй каждый палец её руки, потом запястье, потом плечо — не торопись, это не гонка.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_020",
+    "category": "for_him",
+    "level": 2,
+    "text": "Пока она лежит, используй вибратор на ней — наблюдай за её реакцией и спрашивай, что ей нравится.",
+    "timer": 90,
+    "tags": [
+      "toys"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "for_him_021",
+    "category": "for_him",
+    "level": 2,
+    "text": "Держи её за бёдра и целуй её внизу живота — по кругу, не касаясь самого интимного места, пока она не попросит.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_022",
+    "category": "for_him",
+    "level": 2,
+    "text": "Сядь позади неё, обхвати руками и тихо говори ей на ухо всё, что думаешь о ней сейчас — 60 секунд только голосом.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_023",
+    "category": "for_him",
+    "level": 2,
+    "text": "Попроси её лечь на край кровати и сделай ей куни стоя — держи её бёдра руками, не давая уйти.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_024",
+    "category": "for_him",
+    "level": 2,
+    "text": "Проведи пальцами по её волосам от корней до кончиков — медленно, будто изучаешь её впервые.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_025",
+    "category": "for_him",
+    "level": 2,
+    "text": "Во время секса возьми её за руку и не отпускай до конца — пусть чувствует твоё присутствие полностью.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_026",
+    "category": "for_him",
+    "level": 2,
+    "text": "Попроси её сесть верхом и не двигаться — двигайся только ты снизу, держа её за бёдра.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_027",
+    "category": "for_him",
+    "level": 2,
+    "text": "Нежно прикуси её нижнюю губу во время поцелуя, потом отпусти и поцелуй снова — глубоко.",
+    "timer": 15,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_028",
+    "category": "for_him",
+    "level": 2,
+    "text": "Опусти руку ей между ног и ласкай её пальцами, глядя ей в глаза — не отводи взгляд, пока она не отвернётся первой.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_029",
+    "category": "for_him",
+    "level": 2,
+    "text": "Уложи её на живот, поцелуй каждую ягодицу, затем проведи языком по пояснице вверх до лопаток.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_030",
+    "category": "for_him",
+    "level": 2,
+    "text": "Включи вибратор и приложи к ней во время проникновения — наблюдай, что ей больше нравится.",
+    "timer": null,
+    "tags": [
+      "toys",
+      "intense"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "for_him_031",
+    "category": "for_him",
+    "level": 2,
+    "text": "Прижми её к стене, обхвати запястья над головой и поцелуй шею, грудь, живот — сверху вниз, не торопясь.",
+    "timer": 40,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_032",
+    "category": "for_him",
+    "level": 2,
+    "text": "Пока занимаетесь сексом, скажи ей имя — просто её имя, тихо, — и смотри на её реакцию.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_033",
+    "category": "for_him",
+    "level": 2,
+    "text": "Помассируй её ступни и икры — 2 минуты, пальцами, с давлением — она заслуживает этого прямо сейчас.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_034",
+    "category": "for_him",
+    "level": 2,
+    "text": "Поцелуй её грудь медленно — сначала одну, потом другую — уделяя внимание каждому сантиметру кожи, 45 секунд.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_him_035",
+    "category": "for_him",
+    "level": 2,
+    "text": "После всего — просто обними её крепко, уткнись лицом в её волосы и скажи одну честную вещь о том, что сейчас чувствуешь.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_001",
+    "category": "for_her",
+    "level": 2,
+    "text": "Медленно расстегни на нём рубашку — по одной пуговице, после каждой целуй обнажённую кожу.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_002",
+    "category": "for_her",
+    "level": 2,
+    "text": "Возьми его лицо в ладони и поцелуй так глубоко, как только можешь — не меньше 20 секунд.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_003",
+    "category": "for_her",
+    "level": 2,
+    "text": "Проведи языком по его шее снизу вверх, затем слегка прикуси мочку уха.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_004",
+    "category": "for_her",
+    "level": 2,
+    "text": "Усади его на край кровати, встань перед ним на колени и медленно стяни с него штаны — без спешки, глядя ему в глаза.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_005",
+    "category": "for_her",
+    "level": 2,
+    "text": "Возьми его член в руку и медленно, уверенно работай ладонью 30 секунд — не отрывая взгляда от его лица.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_006",
+    "category": "for_her",
+    "level": 2,
+    "text": "Оседлай его, положи его руки себе на бёдра и медленно двигайся — задавай ритм сама.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_007",
+    "category": "for_her",
+    "level": 2,
+    "text": "Поцелуй его живот — несколько медленных поцелуев от пупка вниз, пока не доберёшься до резинки трусов.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_008",
+    "category": "for_her",
+    "level": 2,
+    "text": "Возьми его член в рот и двигайся медленно и глубоко — ровно одну минуту, не торопясь.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_009",
+    "category": "for_her",
+    "level": 2,
+    "text": "Попроси его лечь на живот и помассируй ему ягодицы руками — сильно, уверенно, 40 секунд.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_010",
+    "category": "for_her",
+    "level": 2,
+    "text": "Проведи кончиками пальцев по всему его телу сверху вниз — от плеч до бёдер — не торопясь.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_011",
+    "category": "for_her",
+    "level": 2,
+    "text": "Шёпотом скажи ему на ухо, что именно в его теле тебя заводит больше всего — конкретно и честно.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_012",
+    "category": "for_her",
+    "level": 2,
+    "text": "Завяжи ему глаза и проведи губами по его груди и животу — пусть угадывает, что будет дальше.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "for_her_013",
+    "category": "for_her",
+    "level": 2,
+    "text": "Сядь на него верхом лицом к его ногам и медленно двигайся — в этой позе ты полностью управляешь глубиной.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_014",
+    "category": "for_her",
+    "level": 2,
+    "text": "Возьми его руку и покажи ей, как и где тебя касаться — молча, только движениями.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_015",
+    "category": "for_her",
+    "level": 2,
+    "text": "Поцелуй его внутреннюю поверхность бедра — сначала правого, потом левого, потом снова правого.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_016",
+    "category": "for_her",
+    "level": 2,
+    "text": "Попроси его встать и обойди вокруг него медленно, рассматривая — скажи вслух, что видишь и что тебе нравится.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_017",
+    "category": "for_her",
+    "level": 2,
+    "text": "Ляг на его грудь, слушай его сердцебиение 15 секунд — а потом поцелуй его туда, где слышала биение.",
+    "timer": 25,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_018",
+    "category": "for_her",
+    "level": 2,
+    "text": "Возьми его член в рот и используй язык — медленные круговые движения кончиком, 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_019",
+    "category": "for_her",
+    "level": 2,
+    "text": "Нанеси немного масла на его спину и сделай ему настоящий массаж — уверенными движениями, не меньше минуты.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": "oil"
+  },
+  {
+    "id": "for_her_020",
+    "category": "for_her",
+    "level": 2,
+    "text": "Оседлай его и двигайся медленно, не позволяя ему касаться тебя руками — его руки лежат на постели.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_021",
+    "category": "for_her",
+    "level": 2,
+    "text": "Проведи кубиком льда по его груди и животу, следя за каждой каплей воды на его коже.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": "ice"
+  },
+  {
+    "id": "for_her_022",
+    "category": "for_her",
+    "level": 2,
+    "text": "Укуси его за плечо — несильно, но ощутимо — и посмотри на его реакцию.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_023",
+    "category": "for_her",
+    "level": 2,
+    "text": "Возьми его за руки, заведи над головой и поцелуй в шею — не давая ему опустить руки 20 секунд.",
+    "timer": 20,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_024",
+    "category": "for_her",
+    "level": 2,
+    "text": "Сделай ему минет с закрытыми глазами — полностью сосредоточившись только на ощущениях, одну минуту.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_025",
+    "category": "for_her",
+    "level": 2,
+    "text": "Сядь ему на колени лицом к нему и медленно поцелуй — сначала губы, потом щёки, потом снова губы.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_026",
+    "category": "for_her",
+    "level": 2,
+    "text": "Пока он лежит, возьми его член двумя руками и работай медленно и равномерно — 45 секунд, не останавливаясь.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_027",
+    "category": "for_her",
+    "level": 2,
+    "text": "Прижмись к его спине, обними его руками спереди и прошепчи на ухо, что хочешь от него прямо сейчас.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_028",
+    "category": "for_her",
+    "level": 2,
+    "text": "Попроси его лечь и погладь его ягодицы — сначала ладонями, потом кончиками пальцев, 30 секунд.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_029",
+    "category": "for_her",
+    "level": 2,
+    "text": "Встань на четвереньки перед ним, посмотри снизу вверх и скажи вслух, чего ты хочешь.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_030",
+    "category": "for_her",
+    "level": 2,
+    "text": "Поцелуй его член — нежно, медленно, несколько раз — и скажи ему, что он тебя заводит.",
+    "timer": 20,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_031",
+    "category": "for_her",
+    "level": 2,
+    "text": "Сядь верхом, возьми его руки и положи себе на грудь — пусть чувствует тебя, пока ты двигаешься.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_032",
+    "category": "for_her",
+    "level": 2,
+    "text": "Проведи пером по его груди, животу и внутренней поверхности бёдер — медленно, наблюдая за его реакцией.",
+    "timer": 45,
+    "tags": [],
+    "required_toy": "feather"
+  },
+  {
+    "id": "for_her_033",
+    "category": "for_her",
+    "level": 2,
+    "text": "Пока он стоит, встань сзади, прижмись и возьми его в руку — двигайся медленно, дыша ему в шею.",
+    "timer": 40,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_034",
+    "category": "for_her",
+    "level": 2,
+    "text": "Попроси его закрыть глаза и поцелуй его в три места на теле на свой выбор — пусть угадает где.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "for_her_035",
+    "category": "for_her",
+    "level": 2,
+    "text": "Оседлай его, нагнись к его уху и шёпотом расскажи свою самую смелую фантазию — пока не остановишься.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_001",
+    "category": "bold",
+    "level": 3,
+    "text": "Разденься догола, встань перед партнёром и медленно, не торопясь, назови вслух три части своего тела, которые тебя заводят больше всего — глядя ему в глаза.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_002",
+    "category": "bold",
+    "level": 3,
+    "text": "Шёпотом на ухо партнёру расскажи самую откровенную фантазию, которую ты никогда не решался озвучить — без купюр, до конца.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_003",
+    "category": "bold",
+    "level": 3,
+    "text": "Возьми руку партнёра и медленно проведи ею по своему телу туда, куда ты хочешь, чтобы тебя трогали прямо сейчас — молча, только движениями.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_004",
+    "category": "bold",
+    "level": 3,
+    "text": "Стриптиз — прямо сейчас: снимай одну вещь каждые 10 секунд под любую музыку в голове, партнёр смотрит и не прикасается.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_005",
+    "category": "bold",
+    "level": 3,
+    "text": "Позволь партнёру завязать тебе глаза и делай всё, что он скажет, в течение следующих двух минут — без права отказа (кроме своих личных стоп-слов).",
+    "timer": 120,
+    "tags": [
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "bold_006",
+    "category": "bold",
+    "level": 3,
+    "text": "Ляг на спину, закрой глаза и не шевелись 60 секунд — партнёр делает с тобой всё что хочет, ты только принимаешь.",
+    "timer": 60,
+    "tags": [
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "bold_007",
+    "category": "bold",
+    "level": 3,
+    "text": "Посмотри партнёру прямо в глаза и не отводи взгляд, пока он касается тебя там, где ты хочешь — говори вслух, что чувствуешь.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_008",
+    "category": "bold",
+    "level": 3,
+    "text": "Включи самую чувственную музыку, которую найдёшь за 10 секунд, и танцуй для партнёра — медленно, вплотную, без одежды выше пояса.",
+    "timer": 90,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_009",
+    "category": "bold",
+    "level": 3,
+    "text": "Возьми кубик льда и проведи им по телу партнёра — от шеи до бёдер, следуя за таянием языком.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "bold_010",
+    "category": "bold",
+    "level": 3,
+    "text": "Скажи партнёру вслух, что именно ты хочешь, чтобы он сделал с тобой сегодня ночью — максимально подробно, без стеснения.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_011",
+    "category": "bold",
+    "level": 3,
+    "text": "Попроси партнёра лечь и не двигаться — потрать 90 секунд только на поцелуи: шея, плечи, живот, бёдра.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "bold_012",
+    "category": "bold",
+    "level": 3,
+    "text": "Позволь партнёру связать тебе руки (наручниками или чем удобно) и поцеловать тебя так долго, как он захочет — ты не можешь его обнять.",
+    "timer": null,
+    "tags": [
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": "handcuffs"
+  },
+  {
+    "id": "bold_013",
+    "category": "bold",
+    "level": 3,
+    "text": "Нанеси массажное масло на ладони и медленно разотри партнёра от плеч до ягодиц — без спешки, только руками, никаких поцелуев пока.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": "oil"
+  },
+  {
+    "id": "bold_014",
+    "category": "bold",
+    "level": 3,
+    "text": "Прошепчи партнёру на ухо, какая часть его тела сводит тебя с ума больше всего — а потом докажи это губами прямо сейчас.",
+    "timer": 30,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_015",
+    "category": "bold",
+    "level": 3,
+    "text": "Сядь верхом на партнёра, смотри ему в глаза и не целуй и не прикасайся губами — только взгляд и лёгкие касания рук, 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "bold_016",
+    "category": "bold",
+    "level": 3,
+    "text": "Используй вибратор на теле партнёра — только снаружи, только там, где он скажет, и только до тех пор, пока он сам не попросит остановиться.",
+    "timer": null,
+    "tags": [
+      "toys",
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": "vibrator"
+  },
+  {
+    "id": "bold_017",
+    "category": "bold",
+    "level": 3,
+    "text": "Закрой партнёру глаза повязкой и в течение минуты касайся его разными частями своего тела — пусть угадывает, чем именно.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": "blindfold"
+  },
+  {
+    "id": "bold_018",
+    "category": "bold",
+    "level": 3,
+    "text": "Расскажи партнёру о моменте, когда ты хотел его сильнее всего — и покажи, как именно тебя тогда переполняло желание.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_019",
+    "category": "bold",
+    "level": 3,
+    "text": "Прикажи партнёру не двигаться и медленно поцелуй его от мочки уха до внутренней стороны бедра — не пропуская ни сантиметра.",
+    "timer": 90,
+    "tags": [
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "bold_020",
+    "category": "bold",
+    "level": 3,
+    "text": "Пощекочи партнёра пером по всему телу — медленно, от шеи до лодыжек, задерживаясь там, где он реагирует острее всего.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": "feather"
+  },
+  {
+    "id": "bold_021",
+    "category": "bold",
+    "level": 3,
+    "text": "Посмотри в глаза партнёру и скажи одним предложением, чего именно ты хочешь от него прямо сейчас — без намёков, прямым текстом.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "bold_022",
+    "category": "bold",
+    "level": 3,
+    "text": "Попроси партнёра надеть маску и не снимать её 5 минут — сыграй роль незнакомца, которого ты встретил только что и не можешь устоять.",
+    "timer": 300,
+    "tags": [
+      "roleplay"
+    ],
+    "required_toy": "mask"
+  },
+  {
+    "id": "bold_023",
+    "category": "bold",
+    "level": 3,
+    "text": "Ты ведущий: скажи партнёру три команды подряд — каждую чётко и уверенно, без объяснений. Партнёр выполняет молча.",
+    "timer": null,
+    "tags": [
+      "dom_sub",
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "bold_024",
+    "category": "bold",
+    "level": 3,
+    "text": "Попроси партнёра лечь на живот и проведи языком по линии позвоночника — от основания шеи до самого низа спины, не торопясь.",
+    "timer": 45,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "bold_025",
+    "category": "bold",
+    "level": 3,
+    "text": "Достань лёд и держи кубик во рту, пока не поцелуешь партнёра так, чтобы он почувствовал холод у себя на губах — а потом согрей их снова.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": "ice"
+  },
+  {
+    "id": "task_hard_001",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Прижмитесь друг к другу вплотную — грудь к груди, бёдра к бёдрам. Целуйтесь жадно и непрерывно, двигайтесь медленно, как будто пытаетесь слиться в одно. Ни один из вас не должен останавливаться первым.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_002",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один из вас садится на колени к партнёру лицом. Обхвати партнёра ногами, прижмись и двигайся медленными круговыми движениями бёдрами, не отрываясь от поцелуя. Удерживай этот темп 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_003",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте лицом к стене. Один прижимает партнёра к стене всем телом, не давая двигаться. Целуйтесь в шею, дышите тяжело, удерживай партнёра крепко — ни сантиметра свободы. Держите позицию 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_004",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба опуститесь на пол. Один ложится, второй накрывает сверху всем весом тела. Двигайтесь медленно, синхронно, не спеша — почувствуйте каждое движение партнёра под собой или под вами. 120 секунд без остановки.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_005",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Сядьте друг напротив друга, возьмите партнёра за запястья и смотрите в глаза. Медленно притягивайте друг друга к себе, пока не окажетесь нос к носу. Не целуйтесь — просто дышите в губы партнёра 45 секунд, не отводя взгляд.",
+    "timer": 45,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_006",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один встаёт сзади, обхватывает партнёра руками и прижимает к себе так, чтобы не было ни просвета. Вторая рука скользит по телу партнёра медленно, от груди до бёдер. Целуй шею и плечо. 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_007",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Прижмитесь лбами друг к другу, закройте глаза. Не целуясь, только касаясь — медленно проводи ладонями по всему телу партнёра сверху вниз, пока партнёр делает то же самое. Молчите. 60 секунд.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_008",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один ложится, вытягивает руки над головой и не двигает ими. Второй целует тело партнёра от ключиц до живота, медленно и без спешки — каждый сантиметр. Потом меняйтесь. По 60 секунд на каждого.",
+    "timer": 120,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_009",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте у зеркала лицом к отражению. Один стоит сзади, оба смотрят в зеркало. Двигайтесь медленно, соприкасаясь бёдрами, — следите за собой и за партнёром одновременно. 90 секунд не отводя взгляда.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_010",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба встаньте, крепко обнимитесь и начните медленно кружиться, не разрывая объятий. Поцелуй должен быть непрерывным. Остановитесь только когда оба почувствуете лёгкое головокружение. Не торопитесь.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_011",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один садится, широко раздвинув ноги. Второй садится внутрь, спиной к партнёру, и откидывается назад. Обхвати партнёра изнутри ногами, прижмись плотно и двигайся — мягко, но настойчиво. 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_012",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба опуститесь на колени лицом друг к другу. Возьмите партнёра за лицо двумя руками и целуйтесь — глубоко, долго, без воздуха. Руки партнёра при этом свободно лежат вдоль тела. 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_013",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один тянет партнёра за руку к себе резко, притягивает за талию и прижимает лбом к своему плечу. Удерживай крепко — партнёр не должен суметь выбраться. Целуй висок, шею, ухо. 60 секунд без слов.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_014",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Лягте на бок лицом друг к другу, переплетите ноги. Оба двигайтесь медленно, прижимаясь как можно плотнее — животами, бёдрами, грудью. Целуйтесь тихо и глубоко. 120 секунд не размыкая объятий.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_015",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один закрывает глаза. Второй медленно касается кончиками пальцев лица партнёра — губ, скул, бровей — как будто читает на ощупь. Затем медленно целует каждое место, которого касался. 90 секунд, потом смена.",
+    "timer": 180,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_016",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте вплотную. Один кладёт обе ладони на бёдра партнёра и направляет их движение — медленно, уверенно, задавая ритм. Партнёр полностью подчиняется этому ритму. 90 секунд молча.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_017",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба сядьте, переплетите пальцы рук. Притягивайте друг друга на себя поочерёдно — один тянет, другой сопротивляется ровно настолько, чтобы не поддаться сразу. Когда тот, кто тянул, выигрывает — глубокий поцелуй. Три раунда.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_018",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один садится на край кровати, второй стоит перед партнёром. Обхвати голову партнёра руками и притяни к себе — лбом к животу. Удерживай мягко, но уверенно, и медленно гладь по волосам и затылку. 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_019",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Прижмитесь спинами друг к другу. Почувствуй дыхание партнёра через спину — как поднимается и опускается грудная клетка. Синхронизируйте дыхание. Как только ритм совпадёт — медленно разворачивайтесь и целуйтесь.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_020",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один ложится на живот. Второй садится сверху и медленно разминает плечи, спину и поясницу — но не как массаж, а как желание. Дыши тяжело, наклонись и целуй лопатки и позвоночник. 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_021",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте в дверном проёме. Один удерживает партнёра за оба запястья над головой, прижав к косяку. Целуйтесь жадно — тот, кто держит, не отпускает. Тот, кого держат, пытается освободиться. 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_022",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Сядьте друг напротив друга на расстоянии вытянутой руки. Медленно, очень медленно сближайтесь — только движением тела, без помощи рук. Первое прикосновение — губами. Не торопитесь.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_023",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один ведёт — берёт партнёра за подбородок и задаёт темп поцелуя: то медленно и глубоко, то резко и коротко. Партнёр полностью следует за этим темпом, не опережая. 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_024",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба встаньте, обнимитесь крепко и замрите — полная неподвижность. Только дышите. Чувствуйте тепло тела партнёра, его сердцебиение. Простойте так 60 секунд, потом резко — самый страстный поцелуй.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_025",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один закрывает глаза и запрокидывает голову. Второй медленно целует шею снизу вверх — от ключицы до подбородка, не торопясь, с остановками. Ни слова. Потом меняйтесь. По 60 секунд.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_026",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба сядьте лицом друг к другу верхом — один на другом. Двигайтесь медленно и синхронно, глядя в глаза. Руки партнёра на бёдрах друг друга. Никто не закрывает глаза. 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_027",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один шёпотом диктует партнёру, как именно нужно прикасаться: «медленнее», «сильнее», «здесь», «не двигайся». Партнёр выполняет каждую команду точно. 120 секунд, потом смена ролей.",
+    "timer": 120,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_028",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Лягте оба на спину, голова к голове. Не переворачивайтесь — дотянитесь до партнёра только руками и целуйтесь вверх ногами. Неудобно, смешно, страстно — продержитесь 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_029",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один медленно раздевает партнёра — одну вещь за раз, без спешки, целуя каждый открытый участок кожи. Молчание обязательно. Партнёр стоит спокойно и не помогает. Только когда всё снято — можно двигаться.",
+    "timer": null,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_030",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте вплотную, переплетите пальцы рук и вытяните их в стороны. Целуйтесь — только губами, без помощи рук. Чем интенсивнее поцелуй, тем сильнее сжимайте руки. 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_031",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один садится, второй встаёт сзади, наклоняется и обхватывает партнёра обеими руками — крепко, как будто не хочет отпускать никогда. Целуй в макушку, висок, шею. Молчи. 60 секунд.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_032",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба ложитесь на живот рядом. Смотрите друг другу в глаза. Медленно тянитесь друг к другу — только губами, пока не поцелуетесь. Держите поцелуй 60 секунд, не меняя позы, не поворачиваясь.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_033",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один медленно проводит кончиком языка по губам партнёра — не торопясь, по всему контуру. Партнёр стоит неподвижно и не отвечает — только после того, как круг завершён, можно целоваться. Три круга. Потом смена.",
+    "timer": null,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_034",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба встаньте, возьмите друг друга за талию. Начните двигаться медленно — как танец без музыки, чувствуя каждое движение партнёра. Постепенно ускоряйтесь, прижимаясь всё теснее, пока не станет тяжело дышать.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_035",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один берёт партнёра за подбородок, смотрит в глаза и говорит шёпотом то, что давно хотел сказать — откровенно и без стеснения. Партнёр слушает молча. Потом — самый долгий поцелуй вечера. Без таймера.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_036",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Прижмитесь друг к другу вплотную — грудь к груди, бёдра к бёдрам. Целуйтесь так жадно и глубоко, будто не виделись месяц. Руки блуждают везде одновременно. Не останавливайтесь, пока оба не почувствуете, что воздуха уже не хватает.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_037",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр садится на колени другому лицом к лицу, обхватывает бёдрами и прижимается как можно теснее. Медленно двигайтесь — бёдро к бедру, живот к животу. Смотрите друг другу в глаза, не отводя взгляд, ровно 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_038",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте вплотную. Тот, кто тянул карточку, прижимает партнёра к стене и удерживает запястья над головой. Целуйте шею, ключицы, мочку уха — медленно и нагло, без спешки. Партнёр не двигает руками, пока не попросит продолжения.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_039",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Сядьте друг напротив друга. По очереди называйте одну точку на теле партнёра — и немедленно касайтесь её губами ровно на 5 секунд. Темп нарастает с каждым раундом. Продолжайте, пока не пройдёт 2 минуты или кто-то не сдастся.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_040",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба лягте на кровать. Переплетитесь ногами и руками так плотно, чтобы между телами не осталось ни сантиметра воздуха. Двигайтесь медленно и синхронно — вверх-вниз, не разрывая контакт. 90 секунд без слов.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_041",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр стоит сзади, плотно прижавшись. Руки обхватывают партнёра и медленно исследуют тело спереди — от шеи до бёдер и обратно. Тот, кого обнимают, стоит неподвижно с закрытыми глазами и только дышит. Минута полного владения.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_042",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Поцелуй с усложнением: начните с лёгкого касания губами, через каждые 10 секунд добавляйте интенсивность — давление, язык, захват нижней губы, руки в волосах. К концу второй минуты это должен быть самый голодный поцелуй в вашей жизни.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_043",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба встаньте. Тот, кто тянул карточку, медленно раздевает партнёра, снимая каждую вещь губами и зубами — без помощи рук. Партнёр стоит прямо и не помогает. Каждый снятый предмет — повод задержаться и прикоснуться к открывшейся коже.",
+    "timer": null,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_044",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Выберите самую узкую стену в комнате. Прижмитесь к ней вместе — один прижимает другого спиной к стене и целует с такой настойчивостью, будто это последний поцелуй. Тело к телу, не оставляя зазора. 75 секунд.",
+    "timer": 75,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_045",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр ложится на спину, второй — сверху лицом к лицу. Двигайтесь медленно, как волна — сначала плавно, потом всё настойчивее. Смотрите друг на друга. Двигайтесь синхронно ровно 2 минуты, не торопясь и не останавливаясь.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_046",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Сядьте верхом на партнёра лицом к лицу. Обхватите руками и медленно покачивайтесь, не отрываясь. Одновременно шепчите партнёру на ухо всё самое грязное и откровенное, что хотите сделать прямо сейчас. Не замолкайте 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_047",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Игра «горячо-холодно» для тела: один партнёр с закрытыми глазами, второй касается разных мест — иногда лёгким дыханием, иногда сильным нажатием. Первый угадывает, что именно почувствует следующим. Ошибся — поцелуй в ту точку, угадал — выбираешь следующую. 90 секунд.",
+    "timer": 90,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_048",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте вплотную и синхронно раздевайте друг друга — за один предмет одежды на каждого за раз, не торопясь. За каждую снятую вещь — 10-секундный поцелуй в любое место на открывшейся коже. Продолжайте до победного.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_049",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба встаньте на колени друг перед другом. Одновременно исследуйте тело партнёра руками — от бёдер вверх и обратно. Ни слова, только прикосновения. Смотрите в глаза. Кто первый улыбнётся — тот выполняет любое желание второго прямо сейчас.",
+    "timer": 60,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_050",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр ложится, вытянувшись. Второй очень медленно — от щиколоток до шеи — покрывает тело поцелуями, ни одного сантиметра не пропуская. Двигаться лежащему нельзя. Торопиться запрещено. Только когда путь пройден полностью — меняйтесь ролями.",
+    "timer": null,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_051",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Прижмитесь телами стоя. Один обхватывает другого руками за спину и удерживает максимально крепко. Второй пытается высвободиться — медленно, чувственно, через трение и движение бёдрами. Удерживающий не разжимает рук 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_052",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Поцелуй в замедленной съёмке: целуйтесь настолько медленно, что каждое движение губ занимает вдвое больше времени, чем обычно. Руки — в волосах партнёра. Через 45 секунд — резкий переход к самому страстному и стремительному поцелую на 30 секунд.",
+    "timer": 75,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_053",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр садится на край кровати. Второй встаёт между коленями, берёт лицо партнёра в ладони и целует — долго, глубоко, безостановочно. Сидящий держит второго за бёдра и притягивает ближе. Не разрывать контакт 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_054",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Игра «стоп-движение»: двигайтесь вместе как угодно — обнимайтесь, целуйтесь, трите тела друг о друга. По хлопку — оба замираете в той позе, в которой застала команда. Удерживайте позу 10 секунд, потом снова — вперёд. Повторить 6 раз.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_055",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Лягте на бок лицом друг к другу, переплетите ноги. Синхронно дышите — вдох вместе, выдох вместе. С каждым выдохом прижимайтесь чуть теснее. Через 30 секунд такого дыхания — поцелуй, который начинается как нежный и превращается во что-то гораздо большее.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_056",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Тот, кто тянул карточку, медленно проводит кончиками пальцев по всему телу партнёра сзади — от плеч до поясницы и ниже. Очень медленно, очень уверенно. Партнёр стоит и называет вслух каждое ощущение. Молчать запрещено. 60 секунд.",
+    "timer": 60,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_057",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Оба стоите. Смотрите друг другу в глаза — ни слова, ни улыбки. Медленно сближайтесь, пока губы не коснутся. Оставайтесь в этом касании — без движения — ровно 30 секунд. Потом целуйтесь так, как хочется. Ещё 60 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_058",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр ложится на живот. Второй садится сверху и медленными, сильными движениями разминает плечи, спину, поясницу — затем заменяет руки губами и повторяет тот же маршрут поцелуями. Лежащий не двигается и просто получает.",
+    "timer": 120,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_059",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте у зеркала вместе. Один стоит сзади. Оба смотрите на отражение. Тот, кто сзади, медленно обнимает и касается партнёра — только через зрительный контакт в зеркале. Говорите вслух, что видите и что чувствуете. 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_060",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Поцелуй соревнование: кто из вас двоих сможет поцеловать партнёра так, чтобы тот первым издал звук? Оба целуете друг друга одновременно — шею, ухо, губы, плечо. Кто молчит дольше — победитель и загадывает желание прямо сейчас.",
+    "timer": null,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_061",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Сядьте верхом на партнёра спиной к нему. Партнёр снизу обхватывает руками и медленно исследует тело сверху. Тот, кто сверху, откидывает голову на плечо партнёра и полностью расслабляется. Двигайтесь медленно и синхронно 90 секунд.",
+    "timer": 90,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_062",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Игра на выносливость: оба прижмитесь друг к другу в самом соблазнительном положении и… не двигайтесь. Вообще. Только дыхание. Кто первый не выдержит и сделает движение — тот немедленно выполняет то, что шепнёт на ухо второй. Максимум 2 минуты.",
+    "timer": 120,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_063",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Обхватите партнёра ногами и руками одновременно — как коала. Удерживайте крепко. Партнёр несёт вас, двигаясь по комнате. Целуйтесь всё время, пока движение не остановится. Поменяйтесь ролями и повторите.",
+    "timer": null,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_064",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр ложится на спину, раскинув руки. Второй медленно опускается сверху — не давя всем весом, но прижимаясь каждой точкой тела. Поцелуй начинается нежно и становится всё настойчивее. Сменяйте темп каждые 20 секунд. Итого 2 минуты.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_065",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр стоит с закрытыми глазами. Второй медленно обходит вокруг, касаясь — то кончиком пальца, то всей ладонью, то губами — каждый раз в неожиданном месте. Стоящий должен угадать — палец, ладонь или губы. За каждую ошибку — дополнительный поцелуй туда же.",
+    "timer": 90,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_066",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Встаньте друг напротив друга на расстоянии вытянутой руки. Медленно — очень медленно — сближайтесь, пока тела не соприкоснутся. В момент касания — самый страстный поцелуй, на который способны. Удерживайте 60 секунд, потом разойдитесь и начните снова.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_067",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Двигайтесь вместе под медленную музыку — без музыки тоже работает, просто придумайте ритм. Тела прижаты, руки блуждают. Каждые 20 секунд один из вас меняет характер движения — плавнее, резче, медленнее, настойчивее. Следовать за партнёром обязательно.",
+    "timer": 120,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_068",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Один партнёр сидит на полу, второй — напротив, колени к коленям. Возьмите друг друга за руки. Смотрите в глаза и по очереди называйте одно место на теле партнёра, куда хочется прикоснуться прямо сейчас — и немедленно это делайте. 90 секунд без повторений.",
+    "timer": 90,
+    "tags": [],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_069",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Прижмитесь спиной к груди партнёра, почувствуйте его дыхание. Партнёр сзади медленно целует шею, плечи, мочку уха — всё время рукой удерживая за бедро. Стоящий впереди запрокидывает голову и не двигается ровно 75 секунд.",
+    "timer": 75,
+    "tags": [
+      "dom_sub"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "task_hard_070",
+    "category": "task_hard",
+    "level": 3,
+    "text": "Финальное испытание: оба смотрите друг другу в глаза 30 секунд без единого прикосновения. Потом — полная свобода на 30 секунд: руки, губы, тела — всё сразу и везде. Потом снова замрите на 15 секунд. Повторите цикл трижды. Последние 30 секунд — ваши.",
+    "timer": 180,
+    "tags": [
+      "intense"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_001",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто вытянул карточку, ложится на спину и убирает руки за голову. Партнёр садится рядом и 60 секунд гладит твоё тело куда хочет — ты лежишь неподвижно и только чувствуешь.",
+    "timer": 60,
+    "tags": [
+      "прикосновения",
+      "пассивная роль"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_002",
+    "category": "swap",
+    "level": 1,
+    "text": "Поменяйтесь местами: кто сидел — ложится, кто лежал — садится сверху. В новом положении поцелуйтесь 45 секунд, не меняя позицию до сигнала.",
+    "timer": 45,
+    "tags": [
+      "поцелуи",
+      "смена позиции"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_003",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто читает карточку, закрывает глаза и не открывает их 90 секунд. Партнёр в это время целует тебя куда захочет — шея, плечи, руки, лицо. Ты не подсказываешь и не направляешь — только чувствуешь.",
+    "timer": 90,
+    "tags": [
+      "поцелуи",
+      "закрытые глаза",
+      "сюрприз"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_004",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто обычно первым тянется к поцелую — сейчас замирает и ждёт. Партнёр 60 секунд целует тебя сам: лицо, шею, уши — куда хочет и как хочет. Ты не инициируешь ни одного движения.",
+    "timer": 60,
+    "tags": [
+      "поцелуи",
+      "пассивная роль"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_005",
+    "category": "swap",
+    "level": 1,
+    "text": "Встаньте друг напротив друга. Тот, кто вытянул карточку, берёт руки партнёра и кладёт их себе на плечи. Теперь сам обнимает партнёра за талию и 60 секунд медленно кружит вас обоих — партнёр просто держится и не ведёт.",
+    "timer": 60,
+    "tags": [
+      "объятия",
+      "движение",
+      "близость"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_006",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто читает карточку, садится, а партнёр встаёт позади. Партнёр 60 секунд массирует тебе плечи и шею — ты сидишь прямо, руки на коленях, не оборачиваешься. Потом меняетесь: теперь ты встаёшь за партнёром и делаешь то же самое ещё 60 секунд.",
+    "timer": 120,
+    "tags": [
+      "массаж",
+      "прикосновения",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_007",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто вытянул карточку, берёт партнёра за запястья и мягко укладывает его руки над головой. Удерживай запястья одной рукой, второй рукой 45 секунд гладь лицо и шею партнёра. Партнёр держит руки там, куда ты их положил.",
+    "timer": 45,
+    "tags": [
+      "удержание рук",
+      "прикосновения",
+      "контроль"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_008",
+    "category": "swap",
+    "level": 1,
+    "text": "Оба садитесь лицом друг к другу. Тот, кто читает карточку, первые 30 секунд целует партнёра — губы, щёки, лоб — как хочет. По сигналу таймера роли меняются: теперь партнёр целует тебя 30 секунд, а ты принимаешь поцелуи не двигаясь.",
+    "timer": 60,
+    "tags": [
+      "поцелуи",
+      "чёткая смена"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_009",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто вытянул карточку, ложится на живот. Партнёр 60 секунд лёгкими прикосновениями водит пальцами по твоей спине — рисует линии, круги, что хочет. Ты лежишь и угадываешь вслух, что партнёр рисует. Потом меняетесь.",
+    "timer": 120,
+    "tags": [
+      "прикосновения",
+      "спина",
+      "угадывание"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_010",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто читает карточку, встаёт и отходит на шаг. Партнёр медленно подходит к тебе и 60 секунд обнимает так, как сам хочет — крепко, нежно, сзади, спереди. Ты не обнимаешь в ответ — просто стоишь и принимаешь объятие.",
+    "timer": 60,
+    "tags": [
+      "объятия",
+      "пассивная роль",
+      "нежность"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_011",
+    "category": "swap",
+    "level": 1,
+    "text": "Тот, кто вытянул карточку, садится на колени к партнёру лицом к лицу. Партнёр 45 секунд держит тебя за лицо ладонями и целует — темп и глубина только на его усмотрение. Ты держишь руки за своей спиной и не управляешь поцелуем.",
+    "timer": 45,
+    "tags": [
+      "поцелуи",
+      "позиция",
+      "контроль темпа"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_012",
+    "category": "swap",
+    "level": 1,
+    "text": "Лягте так, чтобы один из вас оказался сзади, обнимая второго. Тот, кто спереди, — 60 секунд просто лежит. Тот, кто сзади, — гладит руки, живот и плечи партнёра медленно и без спешки. По сигналу таймера поменяйтесь: теперь бывший «передний» обнимает сзади и гладит.",
+    "timer": 120,
+    "tags": [
+      "объятия сзади",
+      "прикосновения",
+      "смена позиции"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_013",
+    "category": "swap",
+    "level": 2,
+    "text": "Тот, кто вытянул карточку, садится на край кровати. Партнёр опускается на колени и целует внутреннюю сторону твоих бёдер — сначала левое, потом правое — 60 секунд. Потом меняетесь: теперь ты опускаешься на колени и делаешь то же самое партнёру.",
+    "timer": 120,
+    "tags": [
+      "поцелуи",
+      "бёдра",
+      "смена позиции"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_014",
+    "category": "swap",
+    "level": 2,
+    "text": "Вытянувший карточку ложится на спину и убирает руки под голову — не двигает ими до конца. Партнёр медленно снимает с тебя одну вещь одежды, целует то место, которое открылось, и гладит его 45 секунд. Потом меняетесь местами и ролями — повтори то же самое с партнёром.",
+    "timer": 90,
+    "tags": [
+      "раздевание",
+      "поцелуи",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_015",
+    "category": "swap",
+    "level": 2,
+    "text": "Партнёр ложится на живот. Тот, кто читает карточку, садится сверху на бёдра (не перенося вес) и массирует спину и ягодицы руками 60 секунд — делает что хочет. Потом меняетесь: теперь ты ложишься на живот, партнёр садится на тебя и повторяет.",
+    "timer": 120,
+    "tags": [
+      "массаж",
+      "спина",
+      "ягодицы",
+      "смена позиции"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_016",
+    "category": "swap",
+    "level": 2,
+    "text": "Тот, кто вытянул карточку, встаёт перед партнёром. Партнёр медленно расстёгивает или снимает твои штаны и нижнее бельё, потом проводит губами по животу вниз — но останавливается в сантиметре от самого интересного места. Держит паузу 10 секунд. Потом меняетесь — ты делаешь то же самое партнёру.",
+    "timer": null,
+    "tags": [
+      "раздевание",
+      "поцелуи",
+      "живот",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_017",
+    "category": "swap",
+    "level": 2,
+    "text": "Вытянувший карточку берёт партнёра за запястья, укладывает на спину и удерживает руки над головой. 60 секунд целуй шею, грудь и живот партнёра — партнёр не двигает руками и не направляет тебя. Потом партнёр берёт твои запястья — ты ложишься, и теперь партнёр целует тебя так же 60 секунд.",
+    "timer": 120,
+    "tags": [
+      "поцелуи",
+      "грудь",
+      "удержание рук",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_018",
+    "category": "swap",
+    "level": 2,
+    "text": "Тот, кто читает карточку, садится на лицо партнёра коленями по обе стороны от головы — так, чтобы партнёр мог целовать и ласкать тебя языком 60 секунд. Потом меняетесь местами: теперь ты ложишься, партнёр садится над тобой в ту же позицию, и уже ты работаешь языком 60 секунд.",
+    "timer": 120,
+    "tags": [
+      "оральные ласки",
+      "смена позиции",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_019",
+    "category": "swap",
+    "level": 2,
+    "text": "Вытянувший карточку закрывает глаза и не открывает их. Партнёр в течение 90 секунд снимает с тебя одну вещь одежды и гладит руками всё тело — медленно, куда хочет. Ты только чувствуешь, не направляешь. Потом партнёр закрывает глаза — твоя очередь раздеть и погладить партнёра 90 секунд.",
+    "timer": 180,
+    "tags": [
+      "раздевание",
+      "прикосновения",
+      "закрытые глаза",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_020",
+    "category": "swap",
+    "level": 2,
+    "text": "Тот, кто читает карточку, ложится на спину. Партнёр целует и ласкает языком твою грудь — 45 секунд, делает что хочет. Потом партнёр ложится на спину, ты наклоняешься и делаешь то же самое с грудью партнёра — тоже 45 секунд.",
+    "timer": 90,
+    "tags": [
+      "поцелуи",
+      "грудь",
+      "язык",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_021",
+    "category": "swap",
+    "level": 2,
+    "text": "Вытянувший карточку стоит, партнёр опускается на колени и целует, лижет и ласкает тебя там, где тебе нравится — 60 секунд. Не торопи и не направляй руками. Потом меняетесь: теперь ты опускаешься на колени перед партнёром и делаешь то же самое 60 секунд.",
+    "timer": 120,
+    "tags": [
+      "оральные ласки",
+      "колени",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_022",
+    "category": "swap",
+    "level": 2,
+    "text": "Тот, кто читает карточку, раздевает партнёра полностью — медленно, снимая по одной вещи. После каждой снятой вещи целуй открывшееся место. Когда закончишь — партнёр так же медленно раздевает тебя, целуя каждое новое место.",
+    "timer": null,
+    "tags": [
+      "раздевание",
+      "поцелуи",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_023",
+    "category": "swap",
+    "level": 2,
+    "text": "Вытянувший карточку ложится на спину, разводит ноги. Партнёр ложится между ними, целует внутреннюю поверхность бёдер и добирается губами до промежности — 60 секунд делает что хочет языком и губами. Потом меняетесь позициями — теперь ты делаешь то же самое партнёру 60 секунд.",
+    "timer": 120,
+    "tags": [
+      "оральные ласки",
+      "бёдра",
+      "смена позиции"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_024",
+    "category": "swap",
+    "level": 2,
+    "text": "Тот, кто читает карточку, заводит руку партнёра себе в трусы или под одежду и держит её там своей рукой — партнёр гладит тебя 45 секунд. Потом ты убираешь свою руку, берёшь руку партнёра и так же заводишь её к себе — теперь уже ты гладишь партнёра 45 секунд.",
+    "timer": 90,
+    "tags": [
+      "петтинг",
+      "руки",
+      "смена ролей"
+    ],
+    "required_toy": null
+  },
+  {
+    "id": "swap_025",
+    "category": "swap",
+    "level": 2,
+    "text": "Вытянувший карточку встаёт позади партнёра, прижимается всем телом и гладит руками грудь, живот и бёдра партнёра спереди — 60 секунд, не торопясь. Потом партнёр встаёт позади тебя, прижимается и гладит твоё тело теми же движениями — тоже 60 секунд.",
+    "timer": 120,
+    "tags": [
+      "прикосновения",
+      "объятия сзади",
+      "грудь",
+      "смена ролей"
+    ],
+    "required_toy": null
+  }
+]

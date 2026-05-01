@@ -1,0 +1,26 @@
+{
+  "name": "ТАБУ — игра для двоих",
+  "short_name": "ТАБУ",
+  "description": "Эротическая настольная игра для пары, 18+",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0506",
+  "theme_color": "#0A0506",
+  "categories": ["entertainment", "lifestyle"],
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

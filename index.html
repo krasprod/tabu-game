@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#0A0506" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="ТАБУ" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="assets/app-icon.png" />
+  <link rel="icon" type="image/png" href="assets/app-icon.png" />
+  <title>ТАБУ — игра для двоих</title>
+  <link rel="stylesheet" href="styles.css?v=13" />
+  <!-- Telegram Mini App SDK — активируется только внутри Telegram -->
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <div id="app">
+
+    <!-- ============== SPLASH / MENU ============== -->
+    <section class="screen screen-menu active" data-screen="menu">
+      <div class="bg-velvet"></div>
+      <div class="bg-glow"></div>
+      <div class="grain"></div>
+
+      <div class="menu-content">
+        <div class="logo-mark">
+          <svg viewBox="0 0 200 220" class="logo-svg" aria-hidden="true">
+            <defs>
+              <filter id="grunge">
+                <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+                <feDisplacementMap in="SourceGraphic" scale="3"/>
+              </filter>
+            </defs>
+            <g filter="url(#grunge)" fill="#F5E8D5">
+              <path d="M55 50 Q 70 30 80 45 L 90 60 L 100 50 L 110 60 L 120 45 Q 130 30 145 50 L 140 75 L 60 75 Z"/>
+              <rect x="50" y="70" width="100" height="22" rx="2"/>
+              <rect x="89" y="85" width="22" height="110" rx="2"/>
+            </g>
+          </svg>
+        </div>
+        <h1 class="title-tabu">ТАБУ</h1>
+        <p class="subtitle">игра для двоих • 18+</p>
+
+        <div class="menu-buttons">
+          <button class="btn btn-primary" data-action="new-game">Новая игра</button>
+          <button class="btn btn-secondary" data-action="continue" id="btn-continue" hidden>Продолжить</button>
+          <button class="btn btn-ghost" data-action="settings">Настройки</button>
+          <button class="btn btn-ghost" data-action="rules">Как играть</button>
+        </div>
+      </div>
+
+      <div class="orbit-container" aria-hidden="true">
+        <div class="orbit orbit-1"><span class="spark"></span></div>
+        <div class="orbit orbit-2"><span class="spark"></span></div>
+        <div class="orbit orbit-3"><span class="spark"></span></div>
+      </div>
+    </section>
+
+    <!-- ============== SETUP ============== -->
+    <section class="screen screen-setup" data-screen="setup">
+      <div class="bg-velvet"></div>
+      <div class="grain"></div>
+      <header class="topbar">
+        <button class="icon-btn" data-action="back-to-menu" aria-label="Назад">←</button>
+        <h2>Настройка игры</h2>
+        <div class="spacer"></div>
+      </header>
+
+      <div class="setup-content">
+        <div class="field">
+          <label>Его имя</label>
+          <input type="text" id="name-him" placeholder="Он" maxlength="20" />
+        </div>
+        <div class="field">
+          <label>Её имя</label>
+          <input type="text" id="name-her" placeholder="Она" maxlength="20" />
+        </div>
+
+        <div class="field">
+          <label>Уровень откровенности</label>
+          <div class="seg" id="intensity-seg" data-value="2">
+            <button data-val="1">Мягко</button>
+            <button data-val="2" class="active">Средне</button>
+            <button data-val="3">Жёстко</button>
+          </div>
+          <small class="hint" id="intensity-hint">Прелюдия, оральные ласки, петтинг.</small>
+        </div>
+
+        <div class="field">
+          <label>Что у вас есть из игрушек?</label>
+          <div class="chip-grid" id="toy-grid">
+            <button class="chip" data-toy="vibrator">Вибратор</button>
+            <button class="chip" data-toy="dildo">Дилдо</button>
+            <button class="chip" data-toy="handcuffs">Наручники / верёвка</button>
+            <button class="chip" data-toy="blindfold">Повязка на глаза</button>
+            <button class="chip" data-toy="feather">Перо / щекоталка</button>
+            <button class="chip" data-toy="mask">Маска</button>
+            <button class="chip" data-toy="ice">Лёд</button>
+            <button class="chip" data-toy="oil">Массажное масло</button>
+          </div>
+          <small class="hint">Карточки с игрушками, которых нет, будут пропущены.</small>
+        </div>
+
+        <div class="field">
+          <label>Стоп-темы (исключить из игры)</label>
+          <div class="chip-grid" id="taboo-grid">
+            <button class="chip" data-taboo="anal">Анал</button>
+            <button class="chip" data-taboo="fisting">Фистинг</button>
+            <button class="chip" data-taboo="dom_sub">Доминирование</button>
+            <button class="chip" data-taboo="roleplay">Ролевые</button>
+            <button class="chip" data-taboo="intense">Особо жёсткое</button>
+          </div>
+          <small class="hint">Эти карточки никогда не выпадут.</small>
+        </div>
+
+        <button class="btn btn-primary btn-wide" data-action="start-game">Начать</button>
+      </div>
+    </section>
+
+    <!-- ============== GAME ============== -->
+    <section class="screen screen-game" data-screen="game">
+      <div class="bg-velvet"></div>
+      <div class="grain"></div>
+
+      <header class="topbar">
+        <button class="icon-btn" data-action="pause" aria-label="Меню">☰</button>
+        <div class="players">
+          <div class="player player-him" id="player-him">
+            <div class="dot"></div>
+            <div class="pname">Он</div>
+            <div class="psteps" id="steps-him">0</div>
+          </div>
+          <div class="vs">vs</div>
+          <div class="player player-her" id="player-her">
+            <div class="dot"></div>
+            <div class="pname">Она</div>
+            <div class="psteps" id="steps-her">0</div>
+          </div>
+        </div>
+        <button class="icon-btn" data-action="stop-word" aria-label="Стоп" title="Стоп-слово">✋</button>
+      </header>
+
+      <div class="board-wrap">
+        <canvas id="board"></canvas>
+      </div>
+
+      <div class="game-bottom">
+        <div class="turn-banner" id="turn-banner">
+          Ход: <span id="turn-name">Он</span>
+          <span class="level-badge" id="level-badge" data-level="2">средне</span>
+        </div>
+        <button class="btn btn-dice" id="btn-dice" data-action="roll-dice">
+          <canvas id="dice-canvas"></canvas>
+          <span class="btn-dice-label">Бросить</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- ============== CARD OVERLAY ============== -->
+    <div class="card-overlay" id="card-overlay" hidden>
+      <div class="card-stage">
+        <div class="card" id="card">
+          <div class="card-face card-back">
+            <div class="card-back-mark">T</div>
+          </div>
+          <div class="card-face card-front">
+            <div class="card-cat" id="card-cat">ЗАДАНИЕ</div>
+            <div class="card-text" id="card-text">…</div>
+            <div class="card-toy" id="card-toy" hidden></div>
+            <div class="card-timer" id="card-timer" hidden>
+              <svg viewBox="0 0 100 100"><circle cx="50" cy="50" r="44"/></svg>
+              <span id="card-timer-text">00:30</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-actions" id="card-actions">
+        <button class="btn btn-skip" data-action="card-skip">Пропустить</button>
+        <button class="btn btn-done" data-action="card-done">Готово</button>
+      </div>
+    </div>
+
+    <!-- ============== PAUSE / STOP MODAL ============== -->
+    <div class="modal" id="modal" hidden>
+      <div class="modal-card">
+        <h3 id="modal-title">Пауза</h3>
+        <p id="modal-text"></p>
+        <div class="modal-actions" id="modal-actions"></div>
+      </div>
+    </div>
+
+    <!-- ============== WIN / WISH ============== -->
+    <div class="wish-overlay" id="wish-overlay" hidden>
+      <div class="bg-velvet"></div>
+      <div class="bg-glow"></div>
+      <div class="grain"></div>
+      <div class="confetti" id="confetti" aria-hidden="true"></div>
+
+      <!-- Шаг 1: выбор варианта -->
+      <div class="wish-content" id="wish-choice-stage">
+        <div class="wish-trophy">🏆</div>
+        <h2 class="wish-title">Победил<span id="wish-winner-suffix">а</span> <span id="wish-winner-name">…</span></h2>
+        <p class="wish-sub">Загадай желание — партнёр обязан выполнить</p>
+        <div class="wish-choices">
+          <button class="wish-choice" data-action="wish-own">
+            <div class="wc-emoji">✍️</div>
+            <div class="wc-title">Загадать своё желание</div>
+            <div class="wc-sub">Сам напишу что хочу</div>
+          </button>
+          <button class="wish-choice" data-action="wish-ai">
+            <div class="wc-emoji">✨</div>
+            <div class="wc-title">Получить подсказку</div>
+            <div class="wc-sub">Claude предложит идею</div>
+          </button>
+        </div>
+      </div>
+
+      <!-- Шаг 2: ввод желания -->
+      <div class="wish-content" id="wish-input-stage" hidden>
+        <div class="wish-trophy">🏆</div>
+        <h2 class="wish-title" id="wish-input-title">Твоё желание</h2>
+        <p class="wish-sub" id="wish-input-sub">Партнёр увидит его на следующем экране</p>
+        <textarea
+          id="wish-input"
+          placeholder="Напиши своё желание словами…"
+          maxlength="280"
+          rows="5"></textarea>
+        <div class="wish-actions wish-actions-input">
+          <button class="btn btn-ghost" data-action="wish-back-to-choice">← Назад</button>
+          <button class="btn btn-ghost" id="wish-regen-btn" data-action="wish-suggest" hidden>Другая идея ✨</button>
+          <button class="btn btn-primary" data-action="wish-reveal">Загадать</button>
+        </div>
+      </div>
+
+      <div class="wish-content wish-reveal-stage" id="wish-reveal-stage" hidden>
+        <div class="wish-card">
+          <div class="wish-card-label">Желание победител<span id="wish-label-suffix">я</span></div>
+          <div class="wish-card-text" id="wish-card-text">…</div>
+          <div class="wish-card-from">от <span id="wish-from-name">…</span></div>
+        </div>
+        <div class="wish-actions">
+          <button class="btn btn-primary btn-wide" data-action="wish-done">Принимаю — выполню</button>
+          <button class="btn btn-ghost" data-action="wish-edit">Изменить желание</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============== RULES ============== -->
+    <section class="screen screen-rules" data-screen="rules">
+      <div class="bg-velvet"></div>
+      <div class="grain"></div>
+      <header class="topbar">
+        <button class="icon-btn" data-action="back-to-menu" aria-label="Назад">←</button>
+        <h2>Как играть</h2>
+        <div class="spacer"></div>
+      </header>
+      <div class="rules-content">
+        <p>Двое игроков по очереди бросают кубик и продвигают свою фишку по дорожке от старта к финишу.</p>
+        <p>На каждой клетке выпадает карточка. Категория зависит от иконки клетки:</p>
+        <ul>
+          <li>💋 — задание (что-то сделать партнёру)</li>
+          <li>👁 — правда (откровенный вопрос)</li>
+          <li>🔄 — смена ролей (поменяться доминирующим/подчинённым)</li>
+          <li>😈 — вызов-штраф (особо смелое задание)</li>
+        </ul>
+        <p>Кнопка <b>«Пропустить»</b> = +1 ход партнёру. <b>«Готово»</b> = ход переходит партнёру.</p>
+        <p>Кнопка <b>✋ Стоп</b> в любой момент — заканчивает игру без вопросов. Уважайте слово партнёра.</p>
+        <p>Побеждает тот, кто первый дошёл до финиша. Но настоящая победа — обоим хорошо.</p>
+      </div>
+    </section>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+  <script src="config.js"></script>
+  <script src="app.js?v=13"></script>
+</body>
+</html>
