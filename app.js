@@ -94,12 +94,21 @@ let game = null;       // активная игра
 //  STORAGE — LocalStorage + Telegram CloudStorage
 // ============================================================
 
+// Защитная обёртка: если Telegram CloudStorage не вызывает callback (баг в десктоп-клиенте) —
+// падаем по таймауту через 2 сек, чтобы не зависнуть на await.
+function withTimeout(promise, ms) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => setTimeout(() => reject(new Error("storage timeout")), ms)),
+  ]);
+}
+
 async function storageGet(key) {
   if (TG_CLOUD && TG.CloudStorage) {
     try {
-      return await new Promise((resolve, reject) => {
+      return await withTimeout(new Promise((resolve, reject) => {
         TG.CloudStorage.getItem(key, (err, value) => err ? reject(err) : resolve(value));
-      });
+      }), 2000);
     } catch (e) { /* fallback to localStorage */ }
   }
   try { return localStorage.getItem(key); } catch { return null; }
@@ -108,9 +117,9 @@ async function storageGet(key) {
 async function storageSet(key, value) {
   if (TG_CLOUD && TG.CloudStorage) {
     try {
-      await new Promise((resolve, reject) => {
+      await withTimeout(new Promise((resolve, reject) => {
         TG.CloudStorage.setItem(key, value, (err) => err ? reject(err) : resolve());
-      });
+      }), 2000);
     } catch {}
   }
   try { localStorage.setItem(key, value); } catch {}
@@ -120,7 +129,7 @@ async function storageSet(key, value) {
 async function storageDel(key) {
   if (TG_CLOUD && TG.CloudStorage) {
     try {
-      await new Promise((r) => TG.CloudStorage.removeItem(key, () => r()));
+      await withTimeout(new Promise((r) => TG.CloudStorage.removeItem(key, () => r())), 2000);
     } catch {}
   }
   try { localStorage.removeItem(key); } catch {}
