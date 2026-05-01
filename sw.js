@@ -1,5 +1,5 @@
-// Service Worker — кеширует ассеты для оффлайн работы
-const CACHE = "tabu-v3";
+// Service Worker — оффлайн-кеш с network-first для кода (избегаем устаревший JS)
+const CACHE = "tabu-v4";
 const ASSETS = [
   ".",
   "index.html",
@@ -33,11 +33,36 @@ self.addEventListener("activate", (e) => {
   self.clients.claim();
 });
 
+// Код (HTML/JS/CSS/JSON) — network-first, чтобы не залипал старый билд.
+// Картинки — cache-first (быстро + оффлайн).
 self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
-  // Не кешируем API-запросы
   if (url.hostname === "api.anthropic.com" || url.hostname === "openrouter.ai") return;
-  e.respondWith(
-    caches.match(e.request).then((cached) => cached || fetch(e.request).catch(() => caches.match("index.html")))
-  );
+  if (e.request.method !== "GET") return;
+
+  const isCode = /\.(html|js|css|json)$/i.test(url.pathname) || url.pathname.endsWith("/");
+
+  if (isCode) {
+    // network-first
+    e.respondWith(
+      fetch(e.request)
+        .then((res) => {
+          const clone = res.clone();
+          caches.open(CACHE).then((c) => c.put(e.request, clone)).catch(() => {});
+          return res;
+        })
+        .catch(() => caches.match(e.request).then((cached) => cached || caches.match("index.html")))
+    );
+  } else {
+    // cache-first
+    e.respondWith(
+      caches.match(e.request).then((cached) =>
+        cached || fetch(e.request).then((res) => {
+          const clone = res.clone();
+          caches.open(CACHE).then((c) => c.put(e.request, clone)).catch(() => {});
+          return res;
+        })
+      )
+    );
+  }
 });
